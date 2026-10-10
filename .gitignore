@@ -2,10 +2,11 @@
 .env
 .env.*
 !.env.example
-database/
+/database/
 *.db
 *.sqlite
 *.sqlite3
 auth-check.txt
 heartwise-completion-report.txt
 heartwise-integration-report.txt
+
